@@ -1,1 +1,1 @@
-# DSProject1_Titanic
+In this project, I will predict the survivors from titanic based on the features such as fare price, embarked, pclass, gender, age, and sibling/spouse. I will analyze the data available and create different models (logistic regression, random forest, and support vector machines) that will predict the most accurate survivors based on these features.
